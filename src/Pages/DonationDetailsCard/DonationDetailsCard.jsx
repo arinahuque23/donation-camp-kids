@@ -71,4 +71,7 @@ const DonationDetailsCard = ({datas}) => {
     );
 };
 
+
+
+
 export default DonationDetailsCard;

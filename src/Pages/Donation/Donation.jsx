@@ -37,7 +37,7 @@ const Donation = () => {
         :
 
          <div>
-            {donation.length >0 && <button onClick={handleReamove} className="px-5 bg-red-400 block mx-auto rounded-sm ">
+            {donation.length >0 && <button onClick={handleReamove} className="px-8 p-4 bg-red-400 block mx-auto rounded-sm ">
                 Deleted All Donation</button> } <br />
             <div className="grid grid-cols-2 gap-5">
                 {

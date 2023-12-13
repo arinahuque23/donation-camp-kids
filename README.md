@@ -1,4 +1,11 @@
-# React + Vite
+# Here Is My Unique Feature:
+- Personalized Blood Donation Profiles:
+
+Allow users to create profiles with their blood type, donation history, and preferences. This information can help match donors with specific needs more efficiently.
+
+- Blood Type Compatibility Matcher:
+
+Develop a tool that allows users to check the compatibility of their blood type with family members or friends, fostering a culture of preparedness within communities.
 
 Component-Based Architecture:
 
